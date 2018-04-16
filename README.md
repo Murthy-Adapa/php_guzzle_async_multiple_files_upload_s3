@@ -14,11 +14,9 @@ Guzzle is a PHP HTTP client that makes it easy to send HTTP requests and trivial
 
 5. Middleware system allows you to augment and compose client behavior.
 
-   [Documentation](http://docs.guzzlephp.org/en/stable/)
+[Documentation](http://docs.guzzlephp.org/en/stable/)
    
    
-   
-_____
 
 
 # How Async upload works?
